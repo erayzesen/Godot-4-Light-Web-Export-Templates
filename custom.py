@@ -48,6 +48,7 @@ module_regex_enabled = "no" #Regex support
 module_vhacd_enabled = "no" # 3d mesh partition operatotions
 module_navigation_enabled = "no" # 2D and 3D Navigation classes
 module_meshoptimizer_enabled = "no"
+module_mono_enabled = "no"
 
 #Disable Physics 
 module_godot_physics_2d_enabled = "no"
@@ -64,6 +65,10 @@ module_zip_enabled = "no"
 module_theora_enabled = "no" #.ogv media
 module_vorbis_enabled = "no" #.ogg media
 
-
+#More Agressive Tests
+module_json_enabled="no"
+module_2d_light_enabled="no"
+module_audio_effect_enabled="no"
+module_skeleton_2d_enabled="no"
 
 
